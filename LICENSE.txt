@@ -1,6 +1,6 @@
 MIDIWidget
 www.midiwidget.com
-copyright John Staskevich, 2015
+copyright 2015-2017 John Staskevich
 john@codeandcopper.com
 
 This work is licensed under a Creative Commons Attribution 4.0 International License.
